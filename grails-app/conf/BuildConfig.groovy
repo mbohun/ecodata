@@ -41,6 +41,7 @@ grails.project.dependency.resolution = {
         //mavenRepo "http://download.java.net/maven/2/"
         //mavenRepo "http://repository.jboss.com/maven2/"
 		mavenRepo "http://mvnrepository.com"
+	mavenRepo "http://ala-wonder.it.csiro.au/nexus/content/repositories/releases/"
         mavenRepo "http://maven.ala.org.au/repository"
         mavenRepo "http://oss.sonatype.org/content/repositories/releases/"
         mavenRepo "http://download.osgeo.org/webdav/geotools/"
