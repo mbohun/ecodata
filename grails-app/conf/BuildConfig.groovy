@@ -51,6 +51,7 @@ grails.project.dependency.resolution = {
     def geoToolsVersion = "11.2"
     def imgscalrVersion = "4.2"
     dependencies {
+    	compile ([group:'javax.media', name:'jai-core', version:'1.1.3'])
         // specify dependencies here under either 'build', 'compile', 'runtime', 'test' or 'provided' scopes e.g.
 
         // runtime 'mysql:mysql-connector-java:5.1.22'
